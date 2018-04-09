@@ -1,0 +1,3 @@
+qa/busuu/pom/testcases/ChangePasswordTest.class
+qa/busuu/pom/testcases/base/BaseTest.class
+qa/busuu/pom/testcases/LoginTest.class

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="SuiteName" parallel="tests">
+	<test name="Login Test" allow-return-values="true">
+		<classes>
+			<class name="qa.busuu.pom.testcases.LoginTest" />
+		</classes>
+	</test>
+	
+	
+	<test name="Change Password Test" allow-return-values="true">
+		<classes>
+			<class name="qa.busuu.pom.testcases.ChangePasswordTest" />
+		</classes>
+	</test>
+</suite>
+

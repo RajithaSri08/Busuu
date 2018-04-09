@@ -1,0 +1,9 @@
+qa/busuu/pom/pages/LaunchPage.class
+qa/busuu/pom/pages/LoginPage.class
+qa/busuu/pom/pages/common/TopMenu.class
+qa/busuu/pom/pages/session/settings/GeneralSettingsPage.class
+qa/busuu/pom/pages/util/Xls_Reader.class
+qa/busuu/pom/pages/session/LandingPage.class
+qa/busuu/pom/pages/util/DataUtil.class
+qa/busuu/pom/base/BasePage.class
+qa/busuu/pom/pages/util/ExtentManager.class
